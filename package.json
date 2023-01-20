@@ -1,0 +1,19 @@
+{
+  "name": "ussd",
+  "version": "1.0.0",
+  "description": "DJANGO USSD APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasoTD/DjangoUSSD.git"
+  },
+  "author": "DASOTD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DasoTD/DjangoUSSD/issues"
+  },
+  "homepage": "https://github.com/DasoTD/DjangoUSSD#readme"
+}
